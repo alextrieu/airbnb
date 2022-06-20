@@ -6,7 +6,8 @@ export const listings = [
       distance: '100 miles away',
       date: 'Aug 21 - 26',
       price: 705,
-      rating: 4.1
+      rating: 4.98,
+      img: 'https://i.imgur.com/S59GQ9A.png'
     }, 
     {
       id: 2,
@@ -15,7 +16,8 @@ export const listings = [
       distance: '100 miles away',
       date: 'Aug 21 - 26',
       price: 705,
-      rating: 4.1
+      rating: 4.1,
+      img: 'https://i.imgur.com/S59GQ9A.png'
     }, 
     {
       id: 3,
@@ -24,7 +26,8 @@ export const listings = [
       distance: '100 miles away',
       date: 'Aug 21 - 26',
       price: 705,
-      rating: 4.1
+      rating: 4.1,
+      img: 'https://i.imgur.com/S59GQ9A.png'
     }, 
     {
       id: 4,
@@ -33,6 +36,7 @@ export const listings = [
       distance: '100 miles away',
       date: 'Aug 21 - 26',
       price: 705,
-      rating: 4.1
+      rating: 4.1,
+      img: 'https://i.imgur.com/S59GQ9A.png'
     }, 
   ]

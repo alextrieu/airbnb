@@ -4,9 +4,10 @@
 }
 
 .card-image img{
-    height: 290px;
-    width: 100%;
+    /* height: 290px;
+    width: 100%; */
     border-radius: 15px;
+    object-fit: cover;
 }
 
 .card-image {
@@ -36,3 +37,6 @@
     margin-bottom: 5px;
 }
 
+.fa-star {
+    margin-left: 3px;
+}

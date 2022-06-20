@@ -1,10 +1,9 @@
 import React from 'react';
 import Card from './Card.js';
 import { listings } from '../data/listings.js';
-import '/Users/work/Desktop/airbnb/src/css/App.css'
 
 
-function App() {
+function Feed() {
   
   const cardElements = listings.map((listing) => <Card key={listing.id} listing={listing}/>);
 
@@ -17,4 +16,4 @@ function App() {
   );
 }
 
-export default App;
+export default Feed;
